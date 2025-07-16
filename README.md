@@ -1,1 +1,1 @@
-# Praktikum02-GN2425
+# Praktikum PBL02-GN2425
